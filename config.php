@@ -19,8 +19,8 @@ return [
         'disqus' => 'artisanstatic',
         'formcarry' => 'Ccc_GAiIINJ_',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => 'santhoshj',
+            'apiKey' => '597971196178175',
         ],
     ],
     'collections' => [
