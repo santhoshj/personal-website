@@ -2,22 +2,22 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://santhoshj.in',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Santhosh Kumar',
+        'description' => 'Personal blog of Santhosh.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Santhosh Kumar',
+        'twitter' => 'santhuj',
+        'github' => 'santhoshj',
     ],
     'services' => [
         'cmsVersion' => '2.10.49',
-        'analytics' => 'UA-XXXXX-Y',
+        'analytics' => 'UA-30922753-2',
         'disqus' => 'artisanstatic',
-        'formcarry' => 'XXXXXXXXXXXX',
+        'formcarry' => 'Ccc_GAiIINJ_',
         'cloudinary' => [
             'cloudName' => 'artisanstatic',
             'apiKey' => '365895137117119',
